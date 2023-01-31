@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sarahmbrabec
-- 👀 I’m interested in data science, with a concentration on machine learning
-- 🌱 I’m currently learning more machine learning algorithms, and neural networking in general
+- 👀 I’m interested in data science, with a concentration on machine learning and wildlife conservation
 - 💞️ I’m looking to collaborate on any type of project
 - 📫 How to reach me brabecsarah@gmail.com
 
